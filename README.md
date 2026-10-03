@@ -1,12 +1,12 @@
-# Hi, I'm Sabarinath! 👋
+ Hi, I'm Sabarinath! 👋
 
-💻 **B.Tech CSE Student | Coding & Cybersecurity Learner | Tech Enthusiast**
+💻 B.Tech CSE Student | Coding & Cybersecurity Learner | Tech Enthusiast**
 
 Welcome to my GitHub! 🚀
 
 I'm a Computer Science Engineering student interested in **coding, cybersecurity, networking, Linux, and DevSecOps**. I'm currently building my skills through coding practice, hands-on cybersecurity labs, personal projects, and continuous learning.
 
-## 🧑‍💻 About Me
+ 🧑‍💻 About Me
 
 * 🎓 B.Tech Computer Science Engineering student
 * 💻 Improving my programming and problem-solving skills
@@ -30,7 +30,7 @@ I'm a Computer Science Engineering student interested in **coding, cybersecurity
 * Problem Solving
 * Data Structures & Algorithms — Learning
 
-## 🔐 Cybersecurity — Currently Learning
+ 🔐 Cybersecurity — Currently Learning
 
 * Cybersecurity Fundamentals
 * Network Security
@@ -43,7 +43,7 @@ I'm a Computer Science Engineering student interested in **coding, cybersecurity
 * Phishing Awareness & Simulation
 * MAC Address Spoofing
 
-## 🌐 Networking
+ 🌐 Networking
 
 * TCP/IP
 * DNS
@@ -54,9 +54,9 @@ I'm a Computer Science Engineering student interested in **coding, cybersecurity
 * Network Scanning
 * Basic Network Troubleshooting
 
-## 🛠️ Tools & Technologies
+ 🛠️ Tools & Technologies
 
-### Security Tools
+ Security Tools
 
 * 🐉 Kali Linux
 * 🔎 Nmap
@@ -68,7 +68,7 @@ I'm a Computer Science Engineering student interested in **coding, cybersecurity
 * Aircrack-ng
 * 🛡️ Snort
 
-### Development & Other Tools
+ Development & Other Tools
 
 * Git
 * GitHub
@@ -81,33 +81,33 @@ I'm a Computer Science Engineering student interested in **coding, cybersecurity
 * MS Excel
 * MS PowerPoint
 
-## 🧪 Projects
+ 🧪 Projects
 
-### 🔐 MAC Address Spoofing Lab
+🔐 MAC Address Spoofing Lab
 
 A controlled cybersecurity lab project exploring MAC address spoofing and network-level device identification.
 
-### 🔎 Network Vulnerability Scanner
+ 🔎 Network Vulnerability Scanner
 
 A project using Nmap to explore open ports, running services, and potential vulnerabilities in controlled lab environments.
 
-### 🌐 Web Security Lab
+ 🌐 Web Security Lab
 
 Hands-on practice identifying common web vulnerabilities such as SQL Injection and XSS in safe laboratory environments.
 
-### 🛡️ Network IDS Dashboard
+ 🛡️ Network IDS Dashboard
 
 A project exploring intrusion detection using Snort, network logs, and packet-capture data.
 
-### 🤖 Spidey Cyber Bot
+ 🤖 Spidey Cyber Bot
 
 A Python-based Telegram bot exploring cybersecurity and OSINT-related functionality.
 
-### 🚨 Risk-Based Detection System
+ 🚨 Risk-Based Detection System
 
 A project exploring risk scoring and security event detection.
 
-## 🎯 Currently Learning
+ 🎯 Currently Learning
 
 My Learning Journey
        │
@@ -134,15 +134,14 @@ My Learning Journey
              ├── Security Automation
              ├── Docker
              └── Kubernetes
-```
 
-## 🏴‍☠️ TryHackMe
+ 🏴‍☠️ TryHackMe
 
-I'm using **TryHackMe** to develop practical cybersecurity knowledge through hands-on rooms and challenges.
+I'm using TryHackMe to develop practical cybersecurity knowledge through hands-on rooms and challenges.
 
-**Currently exploring:**
+Currently exploring:
 
-* 🔐 Cybersecurity Fundamentals
+* 🔐 Cybersecurity 
 * 🌐 Networking
 * 🐧 Linux
 * 🔎 Reconnaissance
@@ -151,11 +150,11 @@ I'm using **TryHackMe** to develop practical cybersecurity knowledge through han
 * ⚔️ Offensive Security
 * 🚀 DevSecOps
 
-## 📜 Certifications
+ 📜 Certifications
 
 > Certifications will be added here as I complete them.
 
-## 💼 Career Interests
+ 💼 Career Interests
 
 I'm currently exploring opportunities in:
 
@@ -166,19 +165,19 @@ I'm currently exploring opportunities in:
 * 🔎 Vulnerability Assessment
 * 🚀 DevSecOps
 
-## 📈 My Goal
+   📈 My Goal  DEVSECOPS
 
-> **Learn → Practice → Build → Improve**
+> Learn → Practice → Build → Improve
 
 I'm still learning and building my foundation in both **coding and cybersecurity**. My goal is to continuously improve through projects, coding challenges, labs, and real-world learning.
 
-## 🌐 Let's Connect
+ 🌐 Let's Connect
 
 * 💻 GitHub: [RAJA-SABARINATH](https://github.com/RAJA-SABARINATH)
 * 🔗 LinkedIn: [Raja Sabarinath](https://www.linkedin.com/in/raja-sabarinath)
 * 📧 Email: [rajasabarinath9@gmail.com](mailto:rajasabarinath9@gmail.com)
 
 
-> **"Learn. Practice. Build. Repeat."** 🚀
+> Learn  Practice  Build  Repeat  🚀
 
-*Growing one skill, one project, and one challenge at a time.*
+Growing one skill, one project, and one challenge at a time.
