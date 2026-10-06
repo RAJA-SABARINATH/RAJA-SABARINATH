@@ -1,6 +1,6 @@
  Hi, I'm Sabarinath! 👋
 
-💻 B.Tech CSE Student | Coding & Cybersecurity Learner | Tech Enthusiast**
+💻 B.Tech CSE Student | Coding & Cybersecurity Learner | Tech Enthusiast
 
 Welcome to my GitHub! 🚀
 
